@@ -2,7 +2,7 @@
 name: Añadir formación externa al catálogo
 about: Solicitud para añadir una nueva formación externa al catálogo
 title: Añadir formación externa NOMBRE_DE_LA_FORMACION
-labels: formacion externa
+labels: formacion externa, new
 assignees: next-juanantoniogomez
 
 ---
