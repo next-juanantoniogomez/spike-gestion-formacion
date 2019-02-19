@@ -1,9 +1,9 @@
 ---
-name: Solicitud de asistencia a evento ya registrado
+name: Solicitud de asistencia a evento del catálogo
 about: Solicitud de asistencia a un evento formativo que forma parte del catálogo
   de BBVA Next.
 title: Solicito asistir al evento NOMBRE_DEL_EVENTO
-labels: evento
+labels: evento, solicitud
 assignees: next-juanantoniogomez
 
 ---
