@@ -3,7 +3,7 @@ name: Solicitud de formación interna del catálogo
 about: Solicitud de asistencia a una formación interna que forma parte del catálogo
   de BBVA Next.
 title: Solicito formación interna NOMBRE_DE_LA_FORMACION
-labels: solicitud, formacion interna
+labels: formacion interna, solicitud
 assignees: next-juanantoniogomez
 
 ---
