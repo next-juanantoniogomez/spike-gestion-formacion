@@ -1,11 +1,3 @@
-**IMPORTANT: Please do not create a Pull Request without creating an issue first.**
-
-**Closing issues**
-
-Put `closes #XXXX` in your comment to auto-close the issue that your PR fixes (if such).
-
----
-
 # Tipo de formación
 
 Por favor, pon una X en la casilla que corresponda:
