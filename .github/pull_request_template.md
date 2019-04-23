@@ -1,66 +1,43 @@
 **IMPORTANT: Please do not create a Pull Request without creating an issue first.**
 
-*Any change needs to be discussed before proceeding. Failure to do so may result in the rejection of the pull request.*
-
-Please provide enough information so that others can review your pull request:
-
-<!-- You can skip this if you're fixing a typo or adding an app to the Showcase. -->
-
-Explain the **details** for making this change. What existing problem does the pull request solve?
-
-<!-- Example: When "Adding a function to do X", explain why it is necessary to have a way to do X. -->
-
-**Test plan (required)**
-
-Demonstrate the code is solid. Example: The exact commands you ran and their output, screenshots / videos if the pull request changes UI.
-
-<!-- Make sure tests pass on both Travis and Circle CI. -->
-
-**Code formatting**
-
-<!-- See the simple style guide. -->
-
 **Closing issues**
 
 Put `closes #XXXX` in your comment to auto-close the issue that your PR fixes (if such).
 
 ---
 
-# Description
+# Tipo de formación
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Por favor, pon una X en la casilla que corresponda:
 
-Fixes # (issue)
+- [ ] Certificación
+- [ ] Curso o plataforma de cursos
+- [ ] Formación externa
+- [ ] Formación interna
 
-## Type of change
+# Motivación
 
-Please delete options that are not relevant.
+[¿Por qué se debería añadir esta formación al catálogo? ¿Qué contenidos aporta que no puedan encontrarse en las formaciones ya existentes?]
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+# Descripción
 
-# How Has This Been Tested?
+[Describe la formación: qué temas trata, nivel de conocimientos, duración, reputación...]
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+# Fecha
 
-- [ ] Test A
-- [ ] Test B
+[Indica la fecha de la formación (si aplica)]
 
-**Test Configuration**:
-* Firmware version:
-* Hardware:
-* Toolchain:
-* SDK:
+# Web o documentación de la formación
 
-# Checklist:
+[Un enlace a la web de la formación]
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
+# Precios
+
+[Precio o modalidades de precios]
+
+# Checklist antes de abrir esta PR:
+
+Confirmo que he comprobado los siguientes puntos antes de abrir esta PR:
+
+- [ ] La formación no está aún en el catálogo
+- [ ] La formación no ha sido rechazada previamente
